@@ -1,8 +1,16 @@
+body p {
+    color: green;
+}
+
 body{
 background-color: black;
-color: white;
+color: white !important;
 font-family: Verdana;
-    
+color: red;
+}
+
+p {
+    color: blue;
 }
 
   h1{
